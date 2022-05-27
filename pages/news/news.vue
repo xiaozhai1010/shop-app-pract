@@ -1,6 +1,6 @@
 <template>
-	<view class="content-clear-icon">
-		home page
+	<view>
+		
 	</view>
 </template>
 
@@ -8,14 +8,12 @@
 	export default {
 		data() {
 			return {
-			}
-		},
-		methods: {
-
+				
+			};
 		}
 	}
 </script>
 
-<style>
-
+<style lang="scss">
+ @import url('@/pages/news/news.scss');
 </style>

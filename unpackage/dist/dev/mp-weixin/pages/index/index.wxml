@@ -1,1 +1,1 @@
-<view class="content-clear-icon">home page</view>
+<view data-event-opts="{{[['tap',[['clickWord',['$event']]]]]}}" class="content-clear-icon" bindtap="__e">{{'home page  '+num+''}}<button data-event-opts="{{[['tap',[['addOne',['$event']]]]]}}" bindtap="__e">addone</button></view>
